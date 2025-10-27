@@ -21,7 +21,7 @@ It visualizes trends in age, gender, civil status, education, occupation, and co
 
 ## Video Demo
 
-- https://github.com/user-attachments/assets/c23562c4-81a1-47e0-8ff4-34bb8ee187d5
+https://github.com/user-attachments/assets/c23562c4-81a1-47e0-8ff4-34bb8ee187d5
 
 ## 📁 Datasets Included
 
