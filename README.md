@@ -1,4 +1,4 @@
-# 🇵🇭 Filipino Emigrant Data Visualization (1981–2020)
+# Filipino Emigrant Data Visualization (1981–2020)
 
 This Streamlit app provides an interactive dashboard for exploring **four decades of Filipino emigration** based on official datasets from 1981 to 2020.  
 It visualizes trends in age, gender, civil status, education, occupation, and countries of destination.
